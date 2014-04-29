@@ -14,7 +14,9 @@ module.exports = function (grunt) {
 				configuration: grunt.file.readJSON('tslint.json'),
 				formatter: 'tslint-path-formatter'
 			},
-			all: ['**/*.ts']
+			all: [
+				'ambient_import_relative/**/*.ts'
+			]
 		},
 		clean: {
 			all: [
