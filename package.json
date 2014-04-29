@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "demo-typescript-cases",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-ts": "^1.11.1",
+    "grunt-tslint": "^0.4.1",
+    "tslint-path-formatter": "^0.1.1",
+    "grunt-contrib-clean": "^0.5.0",
+    "source-map-support": "^0.2.6",
+    "grunt-continue": "0.0.1"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
