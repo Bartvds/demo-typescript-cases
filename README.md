@@ -1,5 +1,7 @@
 # demo-typescript-cases
 
+[![Build Status](https://secure.travis-ci.org/Bartvds/demo-typescript-cases.png?branch=master)](http://travis-ci.org/Bartvds/demo-typescript-cases)
+
 > Demo code for various issues and tickets
 
 ## Build
