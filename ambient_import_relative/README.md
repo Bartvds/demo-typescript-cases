@@ -6,4 +6,4 @@ error TS2197: Import declaration in an ambient external module declaration canno
 
 Ticket: https://typescript.codeplex.com/discussions/543469
 
-Build: https://travis-ci.org/Bartvds/demo-typescript-cases/builds/23981631
+Build: https://travis-ci.org/Bartvds/demo-typescript-cases/builds/23981815#L303
