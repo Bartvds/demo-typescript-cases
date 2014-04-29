@@ -5,5 +5,5 @@ declare module 'foo' {
 
 		bar(): bar.Bar;
 	}
-export = Foo;
+	export = Foo;
 }
